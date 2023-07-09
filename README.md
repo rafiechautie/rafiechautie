@@ -54,4 +54,3 @@
 <a href="https://www.instagram.com/rafi_qauti/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
